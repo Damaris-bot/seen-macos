@@ -30,7 +30,7 @@ Seen 是一个完全在本地运行的 Mac 小工具，可以把视频中的一�
 
 ## 下载与安装
 
-前往 [最新版本](https://github.com/Damaris-bot/seen-macos/releases/latest)，下载 `Seen-macOS.zip`。
+前往 [最新版本](https://github.com/Damaris-bot/seen-macos/releases/latest)，下载最新的 macOS ZIP。
 
 1. 解压 ZIP。
 2. 把 `Seen.app` 拖入“应用程序”。
